@@ -1,5 +1,8 @@
 # Vim & Clojure Demo
 
+**NOTICE:** This is an old repository. I strongly suggest that any vim + clojure users try [tpope's foreplay](https://github.com/tpope/vim-foreplay).
+
+
 ## Overview
 
 If you want to do write Clojure with Vim and you want to make it as easy and
